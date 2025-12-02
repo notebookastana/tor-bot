@@ -63,7 +63,7 @@ ollama pull mistral:7b-instruct-q4_K_M
 ## 📁 Структура проекта
 
 ```
-Supreme_Lab/
+TOR/
 ├── SETUP.bat              # Полная установка (первый запуск)
 ├── 1_run.bat              # Запуск бота
 ├── 2_load_documents.bat   # Загрузка документов в RAG
@@ -250,4 +250,5 @@ Contributions are welcome! Feel free to:
 
 
 > Made with [Ollama](https://ollama.ai) & [Claude](https://claude.ai)
+
 
